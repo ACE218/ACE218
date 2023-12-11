@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BISWAJIT BAURI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate aspiring ai engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace218&label=Profile%20views&color=0e75b6&style=flat" alt="ace218" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/here_biswajit" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/here_biswajit?logo=twitter&style=for-the-badge" alt="https://twitter.com/here_biswajit" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Cloud**
+- 🌱 I’m currently learning **DSA,MachineLearning**
 
 - 📫 How to reach me **biswajitbauri21803@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/biswa/OneDrive/Desktop/CV.pdf](file:///C:/Users/biswa/OneDrive/Desktop/CV.pdf)
 
-- ⚡ Fun fact **Suffering between ends**
+- ⚡ Fun fact **Suffering between bard and gpt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
