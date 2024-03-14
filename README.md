@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **biswajitbauri21803@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/biswa/OneDrive/Desktop/CV.pdf](file:///C:/Users/biswa/OneDrive/Desktop/CV.pdf)
+- 📄 Know about my experiences visit my college
 
-- ⚡ Fun fact **Suffering between bard and gpt**
+- ⚡ Fun fact **Suffering between AI and ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
