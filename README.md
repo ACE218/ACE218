@@ -103,7 +103,7 @@
   <a href="mailto:biswajitbauri21803@gmail.com"><img src="https://img.shields.io/badge/Email-biswajitbauri21803@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/biswajit-bauri-3b66a2255"><img src="https://img.shields.io/badge/LinkedIn-Biswajit%20Bauri-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://twitter.com/here_biswajit"><img src="https://img.shields.io/badge/Twitter-@here_biswajit-1DA1F2?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://www.biswajitbauri.me"><img src="https://img.shields.io/badge/Portfolio-www.biswajitbauri.me-9cf?style=for-the-badge&logo=FirefoxBrowser" /></a>
+  <a href="https://www.pacetoace.vercel.app"><img src="https://img.shields.io/badge/Portfolio-www.biswajitbauri.me-9cf?style=for-the-badge&logo=FirefoxBrowser" /></a>
 </p>
 
 ---
